@@ -1,0 +1,2 @@
+# panbox
+omnibox/spotlight
